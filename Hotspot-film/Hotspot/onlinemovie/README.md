@@ -26,13 +26,13 @@
 
 # Screenshots :
 
-**Homepage**
+**Sign Up page**
 ![](scrshots/1.jpg)
 
-**Admin page**
+**Log in page**
 ![](scrshots/2.jpg)
 
-**Add movie**
+**Home page**
 ![](scrshots/3.jpg)
 
 **Movie page**
