@@ -4,7 +4,7 @@ In this repository, you can find my projects.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="D:\React Projects\personal-portfolio\src\assets\img\Screenshot 2025-02-03 195653.png">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/Marwan-Elsabie/Projects/blob/main/src/assets/img/Screenshot%202025-02-03%20195653.png">
 
 ## Built using:
 - Front-end library: React
